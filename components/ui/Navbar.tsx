@@ -22,7 +22,7 @@ const Navbar = () => {
 
         <Image
             src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png"
-            alt='charizard'
+            alt='pokemonImagen'
             width={70}
             height={70}
         />
